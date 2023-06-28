@@ -1,0 +1,16 @@
+body {
+
+    background-image: url("../../images/9585.eps");
+    margin: 0;
+    height: 3200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media(max-width:540px) {
+
+    body {
+        height: 2900px;
+    }
+}
