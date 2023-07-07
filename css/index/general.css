@@ -2,7 +2,7 @@ body {
 
     background-image: url("../../images/9585.eps");
     margin: 0;
-    height: 3200px;
+    height: 3400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -11,6 +11,6 @@ body {
 @media(max-width:540px) {
 
     body {
-        height: 2900px;
+        height: 3200px;
     }
 }
